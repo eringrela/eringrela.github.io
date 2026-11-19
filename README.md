@@ -1,6 +1,6 @@
-# Academic website — James-style layout, without divider lines
+# Academic website 
 
-This is a simple standalone HTML/CSS website with the key features of James Okun's public academic website: a fixed left sidebar containing your name, headshot, short bio, and links; research sections on the right; blue paper-title links; and expandable abstracts. **All horizontal rules and borders between papers/sections have been omitted.** The HTML/CSS was written independently, so you do **not** need to fork or download his GitHub repository.
+This is a simple standalone HTML/CSS website with: a fixed left sidebar containing your name, headshot, short bio, and links; research sections on the right; blue paper-title links; and expandable abstracts. **All horizontal rules and borders between papers/sections have been omitted.** The HTML/CSS was written independently, so you do **not** need to fork or download his GitHub repository.
 
 ## Look at it
 
@@ -28,4 +28,4 @@ Guide: https://docs.github.com/en/pages/quickstart
 
 ## Optional Claude Code prompt
 
-> Use this existing starter site. Keep the James Okun-style two-column layout: fixed left column for photo, name, bio, links; right column for research, normal-weight headings, compact paper entries, blue links, and expandable abstracts. Do not add horizontal rules, lines, cards, background blocks, or section borders. Customize the content using only the data I supply. Do not fabricate publications, coauthors, statuses, or PDFs. Preserve mobile responsiveness.
+> Use this existing starter site. Keep the two-column layout: fixed left column for photo, name, bio, links; right column for research, normal-weight headings, compact paper entries, blue links, and expandable abstracts. Do not add horizontal rules, lines, cards, background blocks, or section borders. Customize the content using only the data I supply. Do not fabricate publications, coauthors, statuses, or PDFs. Preserve mobile responsiveness.
