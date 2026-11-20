@@ -24,6 +24,9 @@ p { margin:0 0 13px; }
 .paper { margin:0 0 23px; }
 .paper-title,.paper-authors,.paper-status { margin:0; }
 .paper-title { color:var(--link); }
+#work-in-progress .paper-title {
+  color: var(--ink);
+}
 /* A working title or placeholder is intentionally styled as unobtrusive metadata. */
 .example-marker { color:#87909a; font-size:12px; }
 .paper-authors { color:var(--ink); }
