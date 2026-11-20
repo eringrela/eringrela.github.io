@@ -1,5 +1,3 @@
-/* Closely follows James's clean left-profile / right-research layout,
-   intentionally without horizontal divider rules. Independent static site. */
 :root { --ink:#222; --muted:#64748b; --link:#0074d9; --bg:#fff; }
 * { box-sizing:border-box; }
 html { scroll-behavior:smooth; }
