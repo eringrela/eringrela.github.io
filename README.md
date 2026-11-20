@@ -1,6 +1,6 @@
 # Academic website 
 
-This is a simple standalone HTML/CSS website with: a fixed left sidebar containing your name, headshot, short bio, and links; research sections on the right; blue paper-title links; and expandable abstracts. **All horizontal rules and borders between papers/sections have been omitted.** The HTML/CSS was written independently, so you do **not** need to fork or download his GitHub repository.
+This is a simple standalone HTML/CSS website with: a fixed left sidebar containing your name, headshot, short bio, and links; research sections on the right; blue paper-title links; and expandable abstracts. **All horizontal rules and borders between papers/sections have been omitted.** The HTML/CSS was written independently, so you do **not** need to fork or download his GitHub repository. Thank you to James Okun for source code. 
 
 ## Look at it
 
