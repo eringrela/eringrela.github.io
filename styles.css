@@ -4,7 +4,7 @@
 * { box-sizing:border-box; }
 html { scroll-behavior:smooth; }
 body { margin:0; background:var(--bg); color:var(--ink); font:400 14px/1.55 Inter,Arial,Helvetica,sans-serif; -webkit-font-smoothing:antialiased; }
-.site-layout { margin:0 3%; }
+.site-layout { margin:0 2%; }
 a { color:var(--link); text-decoration:none; }
 a:hover { color:var(--link); text-decoration:underline; text-underline-offset:2px; }
 a:focus-visible, summary:focus-visible { outline:2px solid var(--link); outline-offset:3px; }
