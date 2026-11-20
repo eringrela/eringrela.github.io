@@ -26,7 +26,9 @@ p { margin:0 0 13px; }
 .paper-title { color:var(--link); }
 section[aria-labelledby="work-in-progress"] .paper-title,
 section[aria-labelledby="work-in-progress"] .paper-title a {
-  color: var(--ink);
+  color: #56758C;
+  text-decoration: none;
+  cursor: default;
 }
 /* A working title or placeholder is intentionally styled as unobtrusive metadata. */
 .example-marker { color:#87909a; font-size:12px; }
